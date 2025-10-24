@@ -1,4 +1,2 @@
 Subject
-Mail Mail
-*Mail*
-Mail
+Template Start from here
