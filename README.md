@@ -115,6 +115,9 @@ If your provider requires SSL on port 465, modify the script to use `smtplib.SMT
 
 > App passwords require 2-Step Verification. If `App passwords` is not available, your account may be managed by an organization that disabled the feature.
 
+![G-Mail App Password](https://github.com/user-attachments/assets/1f79e272-97ef-46b0-b34a-8d8ab87e1d7f)
+
+
 ---
 
 ## Security notes
